@@ -1,0 +1,2 @@
+conda install -c conda-forge ipywidgets
+conda install conda-forge::iprogress
